@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 set -o nounset -o errexit
 
-WORKDIR="/root/ipa-le"
-EMAIL=""
+WORKDIR="/data/certs/"
+EMAIL="mc@csgo.cash"
 #cd "$WORKDIR"
 
 ### cron
