@@ -2,7 +2,7 @@
 set -o nounset -o errexit
 
 WORKDIR="/data/certs/"
-EMAIL="mc@csgo.cash"
+EMAIL="imaximius@gmail.com"
 #cd "$WORKDIR"
 
 ### cron
